@@ -1,0 +1,29 @@
+!SESSION 2018-02-16 13:39:40.049 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_112-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/Stubblefield/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/Stubblefield/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-02-16 13:40:00.779
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.equinox.ds 1 0 2018-02-16 13:40:25.630
+!MESSAGE Could not bind a reference of component org.eclipse.fx.core.internal.JUtilLoggerFactory. The reference is: Reference[name = registerHandler, interface = java.util.logging.Handler, policy = dynamic, policy-option = greedy, cardinality = 0..n, target = null, bind = registerHandler, unbind = unregisterHandler, updated = null]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-02-16 13:41:17.448
+!MESSAGE 
+
+Agreeing to the Xcode/iOS license requires admin privileges, please run âsudo xcodebuild -licenseâ and then retry this command.
+
+
+
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-02-16 13:41:17.582
+!MESSAGE 
+
+Agreeing to the Xcode/iOS license requires admin privileges, please run âsudo xcodebuild -licenseâ and then retry this command.
+
+
+
